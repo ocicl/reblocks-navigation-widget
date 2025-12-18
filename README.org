@@ -1,0 +1,9 @@
+* reblocks-navigation-widget
+
+A navigation widget for the Reblocks web framework.
+
+|---------+----------------------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-navigation-widget.git   |
+| commit  | 2fffb7f                                                        |
+| systems | reblocks-navigation-widget                                     |
+|---------+----------------------------------------------------------------|
