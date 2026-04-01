@@ -7,3 +7,4 @@ A navigation widget for the Reblocks web framework.
 | commit  | 2fffb7f                                                        |
 | systems | reblocks-navigation-widget                                     |
 |---------+----------------------------------------------------------------|
+ 
